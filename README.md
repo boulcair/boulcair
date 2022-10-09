@@ -3,6 +3,45 @@
 <head>
 <link rel="stylesheet" type="text/css" href="XoulMin.css">
 </head>
+<style>
+		body {
+			 background:	#F5D6B4;
+              margin-top:         0;
+              margin-left:      100;
+}
+  
+		div {
+			width:				150px;
+			height:			     50px; 
+			background:	      #dd6b4d;
+}
+  
+		.A	{
+            position:        absolute;
+			width: 				100px;
+			height:			  	100px;
+			border-radius:        50%;
+            margin-left:           80;
+            margin-top:            85;
+		}
+  
+		.B {   
+            position:        absolute;
+            width: 				100px;
+			height:				100px;
+			border-radius:	      50%;
+      		margin-top:           115;	
+}	
+		
+  .cylinder	{
+            position:            absolute;
+			width:					170px;
+			height:				     50px;
+			border-radius:	         50px;
+            margin-left:               30;
+            margin-top:               165;
+}
+</style>
 <body>
  <div class="A"></div>
 <div class="B"></div>

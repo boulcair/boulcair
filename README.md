@@ -8,4 +8,6 @@
 
 	 
 </div>
-## This is still LOADING... ██████████ 
+<hr>
+
+This is still LOADING... ██████████ 

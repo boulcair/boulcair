@@ -10,4 +10,27 @@
 </div>
 <hr>
 
-This is still LOADING... ██████████ 
+### My TO DO List
+- [x] Email Signature
+ <html>
+
+	https://boulcair.github.io/regular/focus.html
+<div class="B"></div>
+    <div class="cylinder"></div></button>
+
+- [x] Write HTML/CSS to replicate a given target image
+ <html>
+
+	https://boulcair.github.io/Coffre/tuga.html
+<div class="B"></div>
+    <div class="cylinder"></div></button>
+    
+- [ ] Online daily Jornal
+- [ ] VideoGames
+- [ ] APP
+
+ </html>
+ 
+ <hr>
+ 
+This is still LOADING preview ... ██████████ 

@@ -14,14 +14,14 @@
 - [x] Email Signature
  <html>
 
-	https://boulcair.github.io/regular/focus.html
+	[HTML Focused Signature](https://boulcair.github.io/regular/focus.html)
 <div class="B"></div>
     <div class="cylinder"></div></button>
 
 - [x] Write HTML/CSS to replicate a given target image
  <html>
 
-	https://boulcair.github.io/Coffre/tuga.html
+	[__CSS__ __C__offre __S__omething __S__pecial](https://boulcair.github.io/Coffre/tuga.html)
 <div class="B"></div>
     <div class="cylinder"></div></button>
     
@@ -34,3 +34,8 @@
  <hr>
  
 This is still LOADING preview ... ██████████ 
+
+<hr>
+~~~~
+Do not Work without Coffee !
+

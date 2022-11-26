@@ -38,5 +38,5 @@ This is still LOADING preview ... ██████████
 <hr>
 ~~~~
 Do not Work without Coffee !
-[[https://github.com/boucair/boulcair/blob/main/img/9mRLn8KC_t.png|alt=octocat]]
+[[https://github.com/boucair/boulcair/blob/main/img/https://thumbs2.imgbox.com/e6/5d/9mRLn8KC_t.png|alt=octocat]]
 

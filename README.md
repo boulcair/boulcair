@@ -10,20 +10,28 @@
 </div>
 <hr>
 
-### My Quest for EXP 
+## My Quest for EXP 
 - [x] Email Signature
+<details><summary>HTML <i>focused</i> Signature</summary>
  <html>
 
-	[HTML Focused Signature](https://boulcair.github.io/regular/focus.html)
+	https://boulcair.github.io/regular/focus.html
 <div class="B"></div>
     <div class="cylinder"></div></button>
+		</details>
 
 - [x] Write HTML/CSS to replicate a given target image
+<details><summary><b>CSS</b> <b>C</b>offre <b>S</b>omething <b>S</b>pecial</summary>
+	 
  <html>
 
-	[__CSS__ __C__offre __S__omething __S__pecial](https://boulcair.github.io/Coffre/tuga.html)
+	https://boulcair.github.io/Coffre/tuga.html
+	
 <div class="B"></div>
     <div class="cylinder"></div></button>
+		</details>
+	
+	
     
 - [ ] Online daily Jornal
 - [ ] VideoGames
@@ -36,7 +44,6 @@
 This is still LOADING preview ... ██████████ 
 
 <hr>
-~~~~
+
 Do not Work without Coffee !
-[[https://github.com/boucair/boulcair/blob/main/img/https://thumbs2.imgbox.com/e6/5d/9mRLn8KC_t.png|alt=octocat]]
 
